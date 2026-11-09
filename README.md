@@ -2,6 +2,12 @@
 
 A freelance web development project for a creative production studio, built with React, TypeScript and a PHP/MySQL backend for enquiries, career applications and account access. This repository includes the code, website assets and design documentation.
 
+![Sira homepage walkthrough from the studio opening to the contact footer](docs/images/homepage-motion.gif)
+
+Homepage walkthrough: a studio-led opening moves into creative work and services, then ends with a project enquiry and contact details.
+
+[Complete homepage view](docs/images/homepage-full.webp)
+
 ![Sira desktop and mobile presentation](docs/images/devices.webp)
 
 [Design notes and screenshots](docs/design-notes.md) · [PHP configuration](api/README.md) · [Database setup](database/README.md)
